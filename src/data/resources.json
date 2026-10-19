@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Community Health Clinic",
+    "category": "Medical Clinics",
+    "zip": "07834",
+    "address": "123 Main St, Anytown, NJ",
+    "notes": "Sample listing. Verify interpretation services, eligibility, and fees directly."
+  },
+  {
+    "id": 2,
+    "name": "Immigrant Job Assistance Center",
+    "category": "Jobs",
+    "zip": "07834",
+    "address": "456 Market St, Anytown, NJ",
+    "notes": "Sample listing. Ask about job-search help and work authorization guidance."
+  },
+  {
+    "id": 3,
+    "name": "New Horizon Adult School",
+    "category": "Schools",
+    "zip": "07054",
+    "address": "789 Broad St, Anytown, NJ",
+    "notes": "Sample listing. Ask about English classes, GED preparation, and eligibility."
+  },
+  {
+    "id": 4,
+    "name": "Community Housing Assistance",
+    "category": "Housing",
+    "zip": "07834",
+    "address": "Replace with a verified local address",
+    "notes": "Placeholder. Add verified housing assistance details before publishing."
+  }
+]
